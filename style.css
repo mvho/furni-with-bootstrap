@@ -45,6 +45,13 @@ body {
   .navbar-collapse ul:last-child {
     margin-left: 40px;
   }
+
+  .active {
+    text-decoration-color: #f9bf29;
+    text-decoration-line: underline;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 12px;
+  }
 }
 
 @media (min-width: 1200px) {
